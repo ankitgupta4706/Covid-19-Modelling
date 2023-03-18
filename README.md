@@ -47,9 +47,13 @@ Optimum parameters are mentioned below:
 - CIR is  18.499997384920935
 
 *Open Loop Control*
+
+
 For various contact rate (beta)
 
 *Closed Loop Control*
+
+
 <img width="284" alt="closed_loop_control" src="https://user-images.githubusercontent.com/81372735/226107697-9a8a65a0-fc47-47e1-a6db-c98f49d56f07.PNG">
 
 *Plots*
@@ -61,4 +65,8 @@ Fraction of Susceptible Population Vs Time
 
 # Observations
 
-
+As expected, the new daily cases are highest for BETA, followed by 2/3 BETA, 1/2 BETA and 1/3
+BETA. The graph for Closed-Loop control is also shown above in Purple color. Higher BETA values
+means that due to high contact rate, more people will be infected, but due to the rapid growth of
+the exposed, infected and recovered population, the curve also bends down very quickly because
+susceptible population also reduced quickly for larger BETA values.
