@@ -13,7 +13,7 @@ predictions and do various analysis with respect to the contact rate Beta. CIR i
 3. The cumulative number of vaccinations (dose 1) administered (column name: First Dose Administered) since 16 January 2021 until 20 September 2021.
 
 # Model Equations
-<img width="287" alt="equations" src="https://user-images.githubusercontent.com/81372735/226106916-a13d1075-ac9a-4e92-bcd1-03f6d3fd1c08.PNG">
+<img width="372" alt="Covid_Model" src="https://user-images.githubusercontent.com/81372735/236662718-9e94f2b9-25cd-444d-a8e4-f0cc7440d59a.PNG">
 
 # Assumptions
 - Total Population (N): 70 million
